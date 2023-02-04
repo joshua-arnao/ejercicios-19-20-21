@@ -1,9 +1,10 @@
 import "./App.css";
+import AxiosEjercice from "./components/pure/AxiosEjercice";
 
 function App() {
   return (
     <div className="App">
-      <p>Ejercicios 19-20-21</p>
+      <AxiosEjercice />
     </div>
   );
 }
